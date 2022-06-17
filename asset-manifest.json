@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/waterDrop.1/static/css/main.4d61135a.css",
+    "main.js": "/waterDrop.1/static/js/main.5486a3d8.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/waterDrop.1/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/CustomerBg.png": "/waterDrop.1/static/media/CustomerBg.efe8fca65e6cb95989f8.png",
+    "static/media/fontawesome-webfont.eot": "/waterDrop.1/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/waterDrop.1/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/FooterBottom.png": "/waterDrop.1/static/media/FooterBottom.79dbb974f06d730db3df.png",
+    "static/media/i2.jpeg": "/waterDrop.1/static/media/i2.6cf3d1ea0b9c76a22418.jpeg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/waterDrop.1/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/i3.jpeg": "/waterDrop.1/static/media/i3.23891c5e5433a1d4430b.jpeg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/waterDrop.1/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Main Logo 2.svg": "/waterDrop.1/static/media/Main Logo 2.844c9efd0e59525dff74.svg",
+    "static/media/i1.jpeg": "/waterDrop.1/static/media/i1.3be979d5334f62253bd0.jpeg",
+    "static/media/img1.png": "/waterDrop.1/static/media/img1.e8dbe401d6f5058e3f2b.png",
+    "static/media/contact.png": "/waterDrop.1/static/media/contact.6749a2be6182bcf65c59.png",
+    "static/media/WaterDropBg.png": "/waterDrop.1/static/media/WaterDropBg.6a00dc64689784411843.png",
+    "static/media/Testimonial-bg.svg": "/waterDrop.1/static/media/Testimonial-bg.a933681be65c67bcbde3.svg",
+    "index.html": "/waterDrop.1/index.html",
+    "main.4d61135a.css.map": "/waterDrop.1/static/css/main.4d61135a.css.map",
+    "main.5486a3d8.js.map": "/waterDrop.1/static/js/main.5486a3d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d61135a.css",
+    "static/js/main.5486a3d8.js"
+  ]
+}
